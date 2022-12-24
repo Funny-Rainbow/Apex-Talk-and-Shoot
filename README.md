@@ -7,5 +7,5 @@
    检测到麦克风音量超过阈值就点击鼠标左键  
    Tab键切换开枪模式  
 
-开源协议-Apache 2.0
+开源协议-Apache 2.0  
 Open Source Lisence-Apache 2.0
